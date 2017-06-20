@@ -1,0 +1,15 @@
+// Copyright 2017 Silicon Laboratories, Inc.
+//
+//
+
+Executing: bgbuild (/Applications/Simplicity Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v1.0/protocol/bluetooth_2.3/bin/bgbuild)
+Output:
+ALL OK
+
+Error:
+Unknown option 'n'.
+WARNING: 2a00 length attribute is 13 but actual value length is 11. 13 will be used.
+WARNING: "length" used on fec26ec46d7144429f8155bc21d658d6 which has a variable length value. It will be treated as "max_length".
+WARNING: fec26ec46d7144429f8155bc21d658d6 max length attribute is 20 but actual value length is 2. 20 will be used.
+
+
